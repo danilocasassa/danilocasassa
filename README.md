@@ -2,9 +2,9 @@
 
 <p>
 - 🔭 I’m currently working with Roku Webdriver</br>
-- 🌱 I’m currently learning Puppeteer, Playwrigth and Appium</br>
+- 🌱 I’m currently learning Puppeteer, Playwright and Appium</br>
 - 👯 I’m looking to collaborate on Mobile Apps and New Challenges</br>
-- 🤔 I’m looking to help with my skills and knoledge to help the company reach our goals</br>
+- 🤔 I’m looking to help with my skills and knowledge to help the company reach our goals</br>
 - 💬 Ask me about any thing</br>
 - 📫 How to reach me: danilo_casassa@hotmail.com or <a href="https://www.linkedin.com/in/danilocasassa/">Danilo Casassa - Linkedin Profile</a></br>
 </p>
